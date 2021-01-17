@@ -12,7 +12,7 @@
     - [明智地使用测试替身](#明智地使用测试替身)
   - [其他关于测试替身的主题](#其他关于测试替身的主题)
 
-真实的生产环境中对象必须协同工作，有时依赖合作对象使得 TDD 变得举步维艰，可以使用 MOCK 技术来解决这些问题。由于 Catch2 没有提供 MOCK 功能支持，本章节主要的代码演示均使用 GMOCK。但是 Catch2 也是可以利用 GMOCK 相关宏来完善测试需要，具体使用详见方式[]。
+真实的生产环境中对象必须协同工作，有时依赖合作对象使得 TDD 变得举步维艰，可以使用 MOCK 技术来解决这些问题。由于 Catch2 没有提供 MOCK 功能支持，本章节主要的代码演示均使用 GMOCK。但是 Catch2 也是可以利用 GMOCK 相关宏来完善测试需要，[具体使用](https://github.com/HATTER-LONG/TDD_Learning/tree/master/test/Catch2/PlaceDescriptionServiceTestByGMock)。
 
 ## 依赖问题
 
