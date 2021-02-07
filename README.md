@@ -1,5 +1,10 @@
 # 《C++程序设计实践与技巧：测试驱动开发》
 
+[![MIT License][license-shield]][license-url]
+
+[license-shield]: https://img.shields.io/github/license/HATTER-LONG/NoteBook_ModernCppProgrammingWithTDD.svg?style=flat
+[license-url]:https://github.com/HATTER-LONG/NoteBook_ModernCppProgrammingWithTDD/blob/master/LICENSE
+
 本文源码：[传送门](https://github.com/HATTER-LONG/TDD_Learning)
 
 ## TDD 的践行步骤
